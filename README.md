@@ -6,7 +6,10 @@ Keep track of income and expenses. Add and remove items.
 
 
 Project Specifications -
+
 Created UI for the project
+
 Show balance, expense, and income totals
+
 Add new transaction and reflect in the total
 
